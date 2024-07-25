@@ -47,5 +47,10 @@ npm start
 - **Customizing Your Experience:** Use the settings to switch themes and adjust other preferences.
 
 ## Screenshots
+<img width="440" alt="Screenshot 2024-07-25 at 7 16 49 PM" src="https://github.com/user-attachments/assets/2f9cde76-1799-4ff2-aa9d-4f7380591a88">
+<img width="440" alt="Screenshot 2024-07-25 at 7 17 16 PM" src="https://github.com/user-attachments/assets/5083533a-aa39-499e-8c4d-1f614697160a">
+<img width="440" alt="Screenshot 2024-07-25 at 7 17 34 PM" src="https://github.com/user-attachments/assets/d01f0084-767a-4f2e-b8af-06beb91fa048">
+<img width="440" alt="Screenshot 2024-07-25 at 7 17 44 PM" src="https://github.com/user-attachments/assets/42d5726a-bfcc-430d-9436-3772779588b9">
 
 
+<
